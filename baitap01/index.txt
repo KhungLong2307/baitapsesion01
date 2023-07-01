@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hello Word
+=======
+Hello Word
+>>>>>>> ad278699ec43d81bfbe3c379b704a772708f9ceb
